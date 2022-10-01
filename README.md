@@ -170,7 +170,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachid-gharib&layout=center&theme=algolia" alt="rachid-gharib" /></a> </p>
 
 ---
-![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
+
+<p align="center">
+     <a href="(https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI"><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI"/></a>
+</p>
 
 Credits: [rachid-gharib](https://github.com/rachid-gharib)
 
