@@ -1,4 +1,4 @@
-Y <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Rachid Gharib</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Rachid Gharib</h1>
 
 <p align="center">
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Old+Mincho&duration=6005&pause=1000&color=38C2FF&center=true&vCenter=true&width=635&lines=A+passionate+software+developer+%F0%9F%A4%93;I+enjoy+creating+intuitive+and+user+friendly+applications+and+webpages." alt="Typing SVG" /></a>
